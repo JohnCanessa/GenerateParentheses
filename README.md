@@ -9,7 +9,7 @@ for the problem.
 If interested in my approach and comments, I invite you to read the
 following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/05/13/generate-parentheses/
 
 Keep in mind that one of the best ways to learn is to read and experiment.
 
